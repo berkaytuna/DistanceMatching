@@ -1,0 +1,36 @@
+{
+    "FileVersion": 3,
+    "Version": 1,
+    "VersionName": "1.0",
+    "FriendlyName": "DistanceMatching",
+    "Description": "For Start Stop Transitions",
+    "Category": "Other",
+    "CreatedBy": "Berkay Tuna",
+    "CreatedByURL": "",
+    "DocsURL": "",
+    "MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/f1a6b1dfec6b4b6caf52ecf0b3350e0b",
+    "SupportURL": "",
+    "EngineVersion": "4.24.0",
+    "CanContainContent": false,
+    "Installed": true,
+    "Modules": [
+        {
+            "Name": "DistanceMatching",
+            "Type": "Runtime",
+            "LoadingPhase": "PreDefault",
+            "WhitelistPlatforms": [
+                "Win64",
+                "Win32"
+            ]
+        },
+        {
+            "Name": "DistanceMatchingEditor",
+            "Type": "Editor",
+            "LoadingPhase": "PreDefault",
+            "WhitelistPlatforms": [
+                "Win64",
+                "Win32"
+            ]
+        }
+    ]
+}
